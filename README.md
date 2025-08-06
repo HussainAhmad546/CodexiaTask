@@ -1,8 +1,23 @@
-# React + Vite
+# React Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple React application.
 
-Currently, two official plugins are available:
+## Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Follow the steps below to run the project locally:
+
+### 1. Clone the Repository
+
+git clone https://github.com/HussainAhmad546/CodexiaTask.git
+
+### 1. Navigate to project Folder
+
+cd CodexiaTask
+
+### 3. Install Dependencies
+
+npm install
+
+### 4. Start the Development Server
+
+npm run dev

@@ -19,7 +19,7 @@ const WordCountSlider = ({ wordCount, onWordCountChange }) => {
             max="1000"
             value={wordCount}
             onChange={(e) => onWordCountChange(parseInt(e.target.value))}
-            className="w-full h-2 rounded-lg cursor-pointer accent-purple-600 bg-gray-700"
+            className="w-full h-2 rounded-lg cursor-pointer accent-purple-600 bg-gray-700 custom-slider"
           />
           <div className="flex justify-between text-sm text-gray-400 mt-2">
             <span>100</span>

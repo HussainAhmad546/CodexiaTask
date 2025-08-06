@@ -12,9 +12,9 @@ const Header = () => {
         </div>
       </div>
       <div className="flex items-center space-x-3">
-        <span className="text-sm">Jane Cooper</span>
+        <span className="text-sm">Hussain Ahmad</span>
         <div className="w-8 h-8 bg-purple-600 rounded-full flex items-center justify-center">
-          <span className="text-xs">JC</span>
+          <span className="text-xs">HA</span>
         </div>
         <p className="text-xs text-purple-400 cursor-pointer">Change profile</p>
       </div>
